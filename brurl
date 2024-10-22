@@ -6,4 +6,4 @@ else if application "Safari" is running then
   tell application "Safari" to get URL of current tab of first window
 end if
 
-### chrurl ends here
+### brurl ends here
